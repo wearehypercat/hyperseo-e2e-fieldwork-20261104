@@ -1,0 +1,24 @@
+{
+  "path": "",
+  "title": "Home | Fieldwork",
+  "description": "",
+  "eyebrow": "A fictional garden design studio in Bend, Oregon",
+  "heading": "A little more room to grow.",
+  "intro": "Fieldwork Garden Studio is a fictional business created for HyperSEO acceptance testing. This demonstration explores thoughtful garden planning, low-water planting and seasonal care for Bend households.",
+  "sections": [
+    {
+      "heading": "Start with the way you use your space",
+      "body": "A welcoming front path, a shady corner for reading, a place to gather with friends. Our fictional planning service starts with the activities you want a garden to support. A garden plan can organize circulation, planting areas and places to pause before individual plants are selected."
+    },
+    {
+      "heading": "Design around the high-desert seasons",
+      "body": "The demonstration service considers sunlight, irrigation access, maintenance preferences and the changing seasons in Central Oregon. Plant choices in this test content are examples for discussion. A real project would require site measurements and qualified local advice."
+    },
+    {
+      "heading": "A practical first conversation",
+      "body": "The fictional process begins with a conversation about your outdoor space, followed by a planning visit and a written concept. This website accepts no bookings or payments. Its contact details use the reserved example domain."
+    }
+  ],
+  "cta": "Explore garden planning",
+  "ctaPath": "garden-planning/"
+}

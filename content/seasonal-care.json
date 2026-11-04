@@ -1,0 +1,24 @@
+{
+  "path": "seasonal-care/",
+  "title": "Seasonal care | Fieldwork Garden Studio",
+  "description": "An example seasonal garden-care service with clear priorities, observation notes and practical planning.",
+  "eyebrow": "Seasonal care",
+  "heading": "Keep noticing what your garden needs.",
+  "intro": "Our fictional seasonal-care service turns observations into an understandable list of next steps. The content exists to exercise HyperSEO reviews and source changes.",
+  "sections": [
+    {
+      "heading": "Observe before acting",
+      "body": "A seasonal review considers plant condition, the way paths are used and areas where maintenance is becoming difficult. Real advice would depend on the property and the time of year."
+    },
+    {
+      "heading": "Agree on priorities",
+      "body": "The example service organizes observations into immediate tasks, later decisions and questions for a qualified professional. It does not provide treatment recommendations or guarantees."
+    },
+    {
+      "heading": "Build a useful record",
+      "body": "A fictional handoff retains the decisions made and the reasons behind them. This keeps later conversations connected to earlier observations rather than starting from a blank page."
+    }
+  ],
+  "cta": "See how to get in touch",
+  "ctaPath": "contact/"
+}

@@ -1,0 +1,24 @@
+{
+  "path": "planting-design/",
+  "title": "Planting design | Fieldwork Garden Studio",
+  "description": "Explore fictional planting design services for seasonal structure and thoughtful water use in Bend gardens.",
+  "eyebrow": "Planting design",
+  "heading": "Plant for texture, movement and the seasons.",
+  "intro": "This fictional planting design service explores how a garden can feel throughout the year. It is demonstration copy rather than a plant prescription for any particular property.",
+  "sections": [
+    {
+      "heading": "Layer the planting",
+      "body": "Trees, shrubs, perennials and ground covers offer different scales and textures. The example service develops a planting direction around the space available and the garden character a household wants to explore."
+    },
+    {
+      "heading": "Discuss water and maintenance",
+      "body": "Irrigation access, soil conditions and maintenance preferences shape a useful planting conversation. Real plant selection must consider conditions on the property and qualified guidance for Central Oregon."
+    },
+    {
+      "heading": "Keep the plan understandable",
+      "body": "A fictional handoff explains the role of each planting area and identifies decisions that still need local verification. No survival rates, water savings or performance outcomes are claimed."
+    }
+  ],
+  "cta": "Explore seasonal care",
+  "ctaPath": "seasonal-care/"
+}

@@ -1,0 +1,24 @@
+{
+  "path": "contact/",
+  "title": "Contact | Fieldwork Garden Studio",
+  "description": "Contact information for the clearly fictional Fieldwork Garden Studio HyperSEO test website.",
+  "eyebrow": "Demonstration contact details",
+  "heading": "Let\u2019s imagine your next garden.",
+  "intro": "This is a fictional business website for end-to-end software testing. It does not offer real services, accept inquiries or collect personal information.",
+  "sections": [
+    {
+      "heading": "Example email",
+      "body": "hello@fieldwork.example is a reserved example address. It is displayed for testing content and must not be used to contact a business."
+    },
+    {
+      "heading": "Example location",
+      "body": "Bend, Oregon provides a setting for the fictional service descriptions. No real office, address, registration or local-business relationship is represented."
+    },
+    {
+      "heading": "About this test",
+      "body": "The site lets us test a public website crawl, content drafting through a subscription-authenticated Codex agent, review of exact source changes and a disposable GitHub pull request."
+    }
+  ],
+  "cta": "Back to the studio",
+  "ctaPath": ""
+}

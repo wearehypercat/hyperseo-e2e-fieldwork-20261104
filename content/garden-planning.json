@@ -1,0 +1,24 @@
+{
+  "path": "garden-planning/",
+  "title": "Services | Fieldwork",
+  "description": "",
+  "eyebrow": "Garden planning",
+  "heading": "Make a plan for everyday outdoor life.",
+  "intro": "Our fictional garden planning service connects paths, gathering spaces and planting areas in one clear layout. It is an example service for testing website content workflows.",
+  "sections": [
+    {
+      "heading": "Understand the site",
+      "body": "A planning conversation explores how you use the space, the time you want to spend caring for it, and the areas that need attention. A real assessment would record dimensions, slopes, sun exposure and existing features before a design is prepared."
+    },
+    {
+      "heading": "Shape a useful concept",
+      "body": "The example concept brings together a simple layout, a planting direction and a sequence of work. It can help a household discuss priorities without pretending that a sketch replaces construction documents or professional advice."
+    },
+    {
+      "heading": "Choose a manageable next step",
+      "body": "A fictional written handoff explains which decisions are ready and which require a site visit, specialist advice or more information. Pricing and installation timelines are intentionally omitted from this demonstration."
+    }
+  ],
+  "cta": "Read about planting design",
+  "ctaPath": "planting-design/"
+}

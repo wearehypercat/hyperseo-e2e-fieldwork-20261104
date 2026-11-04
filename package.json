@@ -1,0 +1,9 @@
+{
+  "name": "hyperseo-fictional-fieldwork-fixture",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "npm run build && node scripts/check.mjs"
+  }
+}
